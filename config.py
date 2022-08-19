@@ -10,13 +10,13 @@
 # }
 
 sec_key = (
-    "Yimnakaox3"  # Can be anything. Has to match with "key" in your TradingView alert message
+    "Nebula"  # Can be anything. Has to match with "key" in your TradingView alert message
 )
 
 # Telegram Settings
 send_telegram_alerts = True
-tg_token = "5274998739:AAHUkl4l7RwG_5cpDnKKFp0R8UbyqBsE6lE"  # Bot token. Get it from @Botfather
-channel = -684356781  # Channel ID (ex. -1001487568087)
+tg_token = "5272174144:AAFHjg1LatGs3I99yIQXeBQkNV7maSAjPMg"  # Bot token. Get it from @Botfather
+channel = -1001696753741  # Channel ID (ex. -1001487568087)
 
 # Discord Settings
 send_discord_alerts = False
